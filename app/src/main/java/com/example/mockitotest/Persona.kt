@@ -1,8 +1,6 @@
 package com.example.mockitotest
 
-class Persona (
-    val nombre: String,
-) {
+class Persona (val nombre: String) {
 
     var hermano : Persona? = null
 
